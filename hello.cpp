@@ -1,3 +1,4 @@
+#include "secfile.hpp"
 // comment from master
 #include <iostream>
 
